@@ -1,4 +1,4 @@
-sun-java6 (6.65-1) unstable; urgency=high
+sun-java6 (6.71-1) unstable; urgency=high
 
   * Last private Java 6 release due to Java 6 reaching end of public updates
   * SECURITY UPDATE:
