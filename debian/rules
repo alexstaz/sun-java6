@@ -146,7 +146,6 @@ common_jre_things = \
 	jre/lib/images \
 	jre/lib/oblique-fonts \
 	jre/lib/zi \
-	jre/lib/jsse.jar \
 	jre/lib/jce.jar \
 	jre/lib/ext/sunjce_provider.jar \
 	jre/lib/ext/sunpkcs11.jar \
